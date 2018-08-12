@@ -1,8 +1,7 @@
-# etherlifeonline
-Etherlife Online Game
-
-http://etherlife.online
+ 
+# Etherlife Online Game
 Ether Life - DAPP - Online Decentralized Strategy Game with Pool Prize
+http://etherlife.online
 
 # Rules
 
